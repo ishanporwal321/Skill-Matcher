@@ -1,0 +1,100 @@
+1 SQL
+2	Excel
+3	Python
+4	R
+5	Data cleaning
+6	Data wrangling
+7	Data visualization
+8	Dashboarding
+9	Statistical analysis
+10	Quantitative analysis
+11	Predictive modeling
+12	Machine learning
+13	Data mining
+14	Big data analysis
+15	Business intelligence
+16	Reporting
+17	Data interpretation
+18	Database management
+19	ETL (Extract, Transform, Load)
+20	SQL querying
+21	Tableau
+22	Power BI
+23	Google Analytics
+24	Adobe Analytics
+25	Statistical software (e.g., SPSS, SAS)
+26	Time series analysis
+27	Regression analysis
+28	Data validation
+29	Data modeling
+30	Data governance
+31	Data quality assurance
+32	Critical thinking
+33	Problem-solving skills
+34	Analytical thinking
+35	Attention to detail
+36	Communication skills
+37	Presentation skills
+38	Project management
+39	Time management
+40	Teamwork
+41	Stakeholder management
+42	Business acumen
+43	Market research
+44	Financial analysis
+45	Operational analysis
+46	Cost-benefit analysis
+47	Dashboard creation
+48	KPI development
+49	Visualization techniques
+50	Storytelling with data
+51	Data-driven decision making
+52	Data integration
+53	Data architecture
+54	Data warehousing
+55	NoSQL databases
+56	Hadoop
+57	Spark
+58	Data lakes
+59	Cloud platforms (AWS, Azure, GCP)
+60	APIs
+61	Data security
+62	Privacy regulations
+63	Data ethics
+64	Compliance
+65	Documentation
+66	Agile methodology
+67	JIRA
+68	Version control (Git, SVN)
+69	Scripting languages (e.g., Bash, PowerShell)
+70	Data scraping
+71	Natural language processing (NLP)
+72	Text mining
+73	Sentiment analysis
+74	Customer segmentation
+75	A/B testing
+76	Market basket analysis
+77	Geographic information systems (GIS)
+78	Web analytics
+79	Social media analytics
+80	SEO
+81	SEM
+82	Customer profiling
+83	Retail analytics
+84	Healthcare analytics
+85	Fraud detection
+86	Cybersecurity
+87	Supply chain analytics
+88	Logistics analytics
+89	Energy sector analytics
+90	Telecommunications analytics
+91	Public sector analytics
+92	Education analytics
+93	Hospitality analytics
+94	Real estate analytics
+95	Transportation analytics
+96	Environmental analytics
+97	Pharmaceutical analytics
+98	Insurance analytics
+99	Legal analytics
+100	Compliance analytics
